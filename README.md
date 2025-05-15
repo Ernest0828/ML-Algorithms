@@ -1,4 +1,4 @@
-**Implementation of Machine Learning Algorithms**
+# Implementation of Machine Learning Algorithms
 
 This repository contains the implmentation of 4 widely used ML Algorithms:
 1. Linear Regression 
